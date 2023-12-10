@@ -253,8 +253,8 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 📆Release Info <b>{release_date}</b>
 
-● <b>{genres}</b>
-● <b>{languages}</b>
+🎭Genres <b>{genres}</b>
+☀️Languages <b>{languages}</b>
 
 📖 sᴛᴏʀʏ : <b>{plot}</b> 
 
