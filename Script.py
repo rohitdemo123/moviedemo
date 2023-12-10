@@ -247,21 +247,14 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     IMDB_TEMPLATE_TXT = """
 <b>{title}</b>
 
-IMDb Data:
+⭐️<b>{rating}</b> | ⏰ <b>{runtime}</b> | 📆 <b>{release_date}</b>
 
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ Languages : <code>{languages}</code>
-📀 RunTime: {runtime} Minutes
-📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
+● <b>{genres}</b>
+● <b>{languages}</b>
 
+📖 sᴛᴏʀʏ : <b>{plot}</b> 
 
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
-
-Requested by : {message.from_user.mention}</b>"""
+© {message.chat.title}
 """
     ALL_FILTERS = """<b>{},</b>
 
