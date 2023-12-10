@@ -247,13 +247,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     IMDB_TEMPLATE_TXT = """
 <b>{title}</b>
 
-🎭 Genres: <b>{genres}</b>
-📆 Year: <b>{releaseinfo}</b>
-🌟 Rating: <b>{rating}</b>
-☀️ Languages : <b>{languages}</b>
-📀 RunTime: <b>{runtime}</b>
-📆 Release Info : <b>{release_date}</b>
-🎛 Countries : <b>{countries}</b>
+🎭 <b>{genres}</b>
+📆 <b>{releaseinfo}</b>
+🌟 <b>{rating}</b>
+☀️ <b>{languages}</b>
+📀 <b>{runtime}</b>
+📆 <b>{release_date}</b>
 
 📖 sᴛᴏʀʏ : <b>{plot}</b> 
 
