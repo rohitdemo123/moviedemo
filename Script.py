@@ -254,9 +254,7 @@ Query🔰 <b>{title}</b>
 📆Release Info <b>{release_date}</b>
 
 🎭Genres <b>{genres}</b>
-☀️Languages <b>{languages}</b>
-
-📖 sᴛᴏʀʏ : <b>{plot}</b> 
+☀️Languages <b>{languages}</b> 
 
 © {message.chat.title}
 """
