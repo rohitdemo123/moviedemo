@@ -251,9 +251,10 @@ Query🔰 <b>{title}</b>
 
 ⏰RunTime <b>{runtime}</b>
 
-📆Release Info <b>{release_date}</b>
+📆Release Date <b>{release_date}</b>
 
 🎭Genres <b>{genres}</b>
+
 ☀️Languages <b>{languages}</b> 
 
 © {message.chat.title}
