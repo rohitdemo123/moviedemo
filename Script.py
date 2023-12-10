@@ -245,7 +245,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ᴍᴏᴠɪᴇ GROUP](https://telegram.me/searchinggroupmovie)</b>"""
 
     IMDB_TEMPLATE_TXT = """
-Query🔰 <b>{title}</b>
+Query🔎 <b>{title}</b>
 
 ⭐️Rating <b>{rating}</b>
 
